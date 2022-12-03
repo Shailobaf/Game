@@ -1,2 +1,2 @@
 # Game
-README  CLICK ME(|https://shailobaf.github.io/Game/|)
+README  CLICK ME(|https://shailobaf.github.io/Game|)
